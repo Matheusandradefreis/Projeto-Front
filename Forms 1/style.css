@@ -1,0 +1,29 @@
+* {
+  font-size: 20px;
+}
+.head {
+  padding: 100px;
+  display: flex;
+  justify-content: flex-end;
+}
+.card1 {
+  background-color: #131212f1;
+  color: white;
+  margin: auto;
+}
+.imgtop {
+  width: 300px;
+  margin: auto;
+  display: block;
+  padding: 20px;
+}
+
+.text-center {
+  color: #ff0043;
+  cursor: pointer;
+}
+.footer {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
